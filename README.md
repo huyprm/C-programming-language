@@ -3,7 +3,7 @@
 
 | Name                   | Solution                             |
 | ---------------------- | ------------------------------------ |
-| [Problem 1+2+3+4]      | [BT 1+2+3+4.cpp](src/BT 1+2+3+4.cpp) |
+| [Problem 1+2+3+4]      | [BT 1+2+3+4.cpp](src/BT1+2+3+4.cpp) |
 | [Problem 5]            | [BT 5.cpp](src/BT 5.cpp)             |
 | [Problem 6]            | [BT 6.cpp](src/BT 6.cpp)             |
 | [Problem 7]            | [BT 7.cpp](src/BT 7.cpp)             |
